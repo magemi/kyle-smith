@@ -1,2 +1,2 @@
 # kyle-smith
-A service for extracting MLS salary data from PDF files
+A service for transforming MLS salary data from CSV to JSON
